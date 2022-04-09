@@ -52,17 +52,17 @@ with them for lifetime, no one can tamper with it.
 
 </div>
 
-## Setp 1 
+#### Setp 1 
 The business user/ ed-tech
 platform use our API to upload a
 certificate
 
-## Step 2
+#### Step 2
 After the certificate is received, it
 is directly uploaded to Filecoin
 network
 
-## Step 3
+#### Step 3
 After the upload is completed, a
 non-transferable NFT is minted to
 the users wallet address
