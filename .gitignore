@@ -1,3 +1,4 @@
 .DS_Store
+.env
 smart-contracts/node_modules
 smart-contracts/cache
