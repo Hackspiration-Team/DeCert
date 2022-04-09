@@ -23,10 +23,9 @@
 
 # Problem Statement 🤔
 
-Currently certificates can be duplicated and modified by anyone.
-The validation system is not permanent and doesn’t offer true
-validation. Even there is no true ownership of it. There is also no
-one-stop platform to showcase your certificates
+More and more Ed-Tech companies are trying to move into the Web3 and Metaverse space, the major issue faced by them is, dealing with a lot of new technology, and also managing the crypto funds and multiple accounts and contracts.
+So a lot of Edu-Tech businesses/communities are trying to provide NFT certificates but there are too many things to handle for every single certificate
+
 
 </br>
 
