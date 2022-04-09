@@ -1,6 +1,14 @@
 # DeCert API Documentation
 The DeCert API allows users to simply mint non-transferable NFT certificates with a simple single and fast API
 
+### Our API Url: https://api.decert.hackspiration.xyz
+
+Send the auth token as `Bearer $token`
+
+|Route|Reqest|Description|
+|---|---|---|
+|/v1/upload|POST|Used to minted Certificates|
+
 #### Install the required library
 	npm install axios
 
